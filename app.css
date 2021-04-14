@@ -1,0 +1,155 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(169, 180, 147);
+}
+.wrapper h2{
+    background-color: rgb(8, 83, 88);
+    color: rgb(230, 242, 243);
+    height: 4.2vh;
+    font-size: 3.9em;
+    margin: -0.1em 0 0 0;
+    border: solid 11px;
+    border-radius: 43px;
+}
+.wrapper h4{
+    margin: 2em 10em 1em 0;
+    text-align: justify;
+    font-size: 2em;
+    background-color: rgb(158, 209, 216);
+}
+.input-group{
+    text-align: justify;
+}
+.input-box input{
+    height: 4em;
+    width: 33.5em;
+    border-radius: 12px;
+}
+
+.icon{
+    position: relative;
+    right: 1px;
+    margin: -23em 0em -30em -15.6em;
+    color: yellowgreen;
+}
+    .fa-envelope{
+        position: relative;
+        right: 1px;
+        margin: 0em -3em 0 -16em;
+        color: yellowgreen;
+    }
+
+.fa-cc-visa{
+    position: relative;
+        right: -3em;
+        top: -0.7em;
+        margin: 0em -8em 0 -3em;
+}
+.fa-cc-paypal{
+    position: relative;
+        right: -3em;
+        top: -0.7em;
+        margin: 0em -24em 0 -3em;
+}
+div .input-box button{
+    background-color: rgb(20, 168, 179);
+    right: 10em;
+    margin: 1em 20em ;
+    height: 8em;
+    width: 45em;
+    border-radius: 4em;
+}
+
+div .input-box select{
+    background-color: white;
+    height: 6em;
+    width: 15em;
+    border-radius: 20em;
+}
+
+.wrapper h4{
+    margin: 1em 2em ;
+}
+
+.input-box input{
+    background-color: rgb(200, 228, 201);
+    padding: 0 3em;
+    margin: 0.4em;
+}
+.input-box label{
+    position: relative;
+    right: 10em;
+    top: -0.7em;
+    margin: 0em -8em 0 -3em;
+}
+.wrapper{
+    width: 1100px;
+    margin: 25px auto;
+    border: solid 7px;
+    border-radius: 42px;
+    background-color: rgb(194, 213, 224);
+}
+
+input[
+    placeholder="DD"
+]{
+    background-color: rgb(221, 220, 230);
+    width: 9vw;
+    height: 5vh;
+    top: 10em 2px auto;
+    font-size: 22px;
+}
+input[
+    placeholder="MM"
+]{
+    background-color: rgb(221, 220, 230);
+    width: 10vw;
+    height: 5vh;
+    top: 10em 2px auto;
+    font-size: 22px;
+}
+input[
+    placeholder="YYY"
+]{
+    background-color: rgb(221, 220, 230);
+    width: 23vw;
+    height: 5vh;
+    top: 10em 12px auto;
+    font-size: 22px;    
+}
+input[placeholder="Card CVC"]{
+    background-color: rgb(221, 220, 230);
+    width: 21.4vw;
+    height: 5vh;
+    font-size: 32px;
+}
+input[placeholder="card number"]{
+    background-color: rgb(221, 220, 230);
+    width: 21.4vw;
+    height: 5vh;
+    font-size: 32px;
+}
+input[
+    placeholder="username"
+]{
+    background-color: rgb(221, 220, 230);
+    
+    font-size: 22px;
+    width: 34.7vw;
+}
+input[
+    placeholder="Full Name"
+]{
+    background-color: rgb(221, 220, 230);
+    font-size: 22px;
+    width: 34.7vw;
+}
+input[
+    placeholder="email"
+]{
+    background-color: rgb(221, 220, 230);
+    font-size: 22px;
+    width: 34.7vw;
+}
